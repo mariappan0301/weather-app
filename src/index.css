@@ -22,3 +22,15 @@ body {
   align-items: center;
   font-family: sans-serif;
 }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: linear-gradient(45deg, #b12222, #4416ce); /* ✅ full screen gradient */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
