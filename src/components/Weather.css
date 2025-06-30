@@ -35,10 +35,12 @@
 
 .search-bar img {
     width: 50px;
-    padding: 15px;
+    height: 50px;              
+    padding: 12px;
     border-radius: 50%;
     background: #ebfffc;
     cursor: pointer;
+    object-fit: contain;       
 }
 
 /* Weather image & text */
